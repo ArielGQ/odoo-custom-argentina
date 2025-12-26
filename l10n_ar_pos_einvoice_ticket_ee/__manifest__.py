@@ -1,7 +1,6 @@
-# -*- coding: utf-8 -*-
 {
     'name': 'POS eInvoice Ticket (Enterprise)',
-    'version': '17.0.0.3',
+    'version': "18.0.1.0.0",
     'author': 'Ing. Gabriela Rivero, Mario Nuñez',
     'license': 'LGPL-3',
     'category': 'Point Of Sale',
